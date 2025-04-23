@@ -6,7 +6,7 @@
 // =====================
 // Lens Parameters
 // =====================
-include <lenses/nikon-fun_touch_6-28mm-f5.6.scad>;
+include <lenses/nikon-fun_touch_4-29mm-f4.5.scad>;
 
 // =====================
 // User Parameters
