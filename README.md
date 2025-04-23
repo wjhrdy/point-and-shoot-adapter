@@ -33,6 +33,19 @@ This project generates a parametric Leica L39 (LTM) to lens adapter with a knurl
    ```
    This will generate an STL in the `output/` directory using the selected lens profile.
 
+## Print Settings
+
+These adapters were tested on a Bambu Lab P1P with a 0.4mm nozzle using PLA, but most filaments should work. Because the adapter has fine threads, print quality and settings matter for a good fit. Recommended settings:
+
+- **Layer Height:** 0.16mm (optimal for threads)
+- **Top/Bottom Layers:** 3 each
+- **Infill:** 20% grid
+- **Seam Position:** Random (for thread integrity)
+- **Joints:** Scarf joints for contours and holes
+- **Other Settings:** Defaults in Orca Slicer unless otherwise noted
+
+These settings provide strong, clean threads and a good fit for most lenses. If you use a different printer or filament, you may need to fine-tune for best results.
+
 ## Customization
 - To create a new lens adapter, copy `lenses/__brand-model-focallength-fstop.scad` to a new file in the `lenses/` directory and edit the parameters for your lens:
   - `lens_hole_diam` — Inner diameter for your lens

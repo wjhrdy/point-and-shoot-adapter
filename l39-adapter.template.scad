@@ -12,7 +12,6 @@
 // User Parameters
 // =====================
 knurl_diam = 47.37;           // mm, diameter of knurled ring
-l39_thread_length = 4.32; // mm, total thread length
 knurl_width = 2;              // mm, width of each knurl (smaller = finer)
 knurl_height_param = 2;     // mm, height of each knurl (smaller = finer)
 knurl_depth = 1.5;             // mm, depth of each knurl
