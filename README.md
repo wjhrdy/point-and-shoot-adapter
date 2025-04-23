@@ -53,6 +53,24 @@ lens_offset = ...;       // mm, positive = lens protrudes, zero/negative = flush
 l39_thread_length = ...; // mm, total thread length
 ```
 
+## Achieving Focus
+
+To use these adapted lenses with precise focusing on a mirrorless camera, you can combine this custom L39 adapter with two additional components:
+
+1. **L39-to-M Mount Adapter:**
+   - This thin adapter converts the Leica L39 (LTM) thread to Leica M mount. These are widely available and inexpensive.
+2. **M Mount Helicoid Adapter:**
+   - This is a variable extension tube ("helicoid") with Leica M mount on both sides. It allows you to finely adjust the lens-to-sensor distance, enabling close focus or correcting for flange differences.
+
+**Typical workflow:**
+- Attach your lens to the 3D-printed L39 adapter.
+- Screw the L39 adapter into the L39-to-M adapter.
+- Mount the combined unit onto the M-mount helicoid adapter.
+- Attach the assembly to your mirrorless camera using an M-mount-to-camera adapter (if needed).
+- Use the helicoid to achieve focus, including infinity and macro distances.
+
+This setup is especially useful for adapting compact point-and-shoot or rangefinder lenses to digital mirrorless systems, giving you full manual focus control.
+
 ### Measurement & Setup Tips
 
 measure from the front housing of the lens back to the first lip or largest lip.
@@ -95,8 +113,8 @@ back    |  |  front
  |            /                \
  |           |                  |
  |           |                  |
- |           \                /
- |            \____ ____ ____/
+ |            \                /
+ |             \______________/
  |                   |  |     \
  |                   |  |      \
  |                   |  |       \
