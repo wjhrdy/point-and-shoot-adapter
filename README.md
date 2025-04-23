@@ -5,7 +5,7 @@
 ## Overview
 This project generates a parametric Leica L39 (LTM) to lens adapter with a knurled grip, using OpenSCAD and open-source libraries for threads and knurling.
 
-> [!WARNING]Use at Your Own Risk
+> [!WARNING]
 > If you are not careful, it is possible to design and print an adapter that, when screwed into your camera, could protrude so far that it physically touches or damages your camera's sensor or shutter. Always measure carefully and double-check your design before mounting on your camera. The authors and contributors are not responsible for any damage caused by improper use of these adapters.
 
 ## Structure
