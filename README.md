@@ -89,6 +89,9 @@ To use these adapted lenses with precise focusing on a mirrorless camera, you ca
 
 This setup is especially useful for adapting compact point-and-shoot or rangefinder lenses to digital mirrorless systems, giving you full manual focus control.
 
+> [!TIP] 
+> If you want a cheap way to get close focus, you can simply use the threads of the L39 mount to move your lens forward. Unscrewing the adapter slightly brings the lens closer to the subject, allowing for macro or closer focusing without any extra adapters.
+
 ### Measurement & Setup Tips
 
 measure from the front housing of the lens back to the first lip or largest lip.
@@ -140,6 +143,11 @@ back    |  |  front
                         
  ⬆_______________________________⬆ knurl_height
 ```
+
+## TODO
+
+- **Custom Rear Aperture:**
+  Many of these point-and-shoot lenses can benefit from an additional aperture (stop) placed behind the lens to improve image quality or control flare. Measuring the exact position for optimal placement can be tricky, but modeling and 3D printing a simple aperture disk or insert to fit over the back of the lens is straightforward. Experimentation is encouraged—contributions and shared designs are welcome!
 
 ## Library Sources
 - [threads.scad](https://github.com/rcolyer/threads-scad)
