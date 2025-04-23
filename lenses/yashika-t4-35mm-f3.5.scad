@@ -20,14 +20,14 @@
 // measure the largest diameter of this section
 // measure the depth of this section
 
-lens_hole_diam = 18.05;          // mm, lens hole inner diameter (configurable)
+lens_hole_diam = 18.06;          // mm, lens hole inner diameter (configurable)
 lens_cyl_depth = 5.35;           // mm, depth of lens holding cylinder
 
 // print with the default params this will let you measure the offset and knurl height
 
-knurl_height = 5;              // mm, height of knurled ring
-lens_offset = -5;             // mm, positive = lens protrudes in front of knurled face, zero/negative = flush or recessed
-l39_thread_length = 10;        // mm, total thread length reset to 5 after testing.
+knurl_height = 7.5;              // mm, height of knurled ring
+lens_offset = 0;             // mm, positive = lens protrudes in front of knurled face, zero/negative = flush or recessed
+l39_thread_length = 5;        // mm, total thread length reset to 5 after testing.
 
 // measure the offset and knurl height
 // seat the lens in the adapter and screw it in to the camera

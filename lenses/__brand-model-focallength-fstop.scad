@@ -25,8 +25,8 @@ lens_cyl_depth = 4;           // mm, depth of lens holding cylinder
 
 // print with the default params this will let you measure the offset and knurl height
 
-knurl_height = 6;              // mm, height of knurled ring
-lens_offset = -10;             // mm, positive = lens protrudes in front of knurled face, zero/negative = flush or recessed
+knurl_height = 5;              // mm, height of knurled ring
+lens_offset = -5;             // mm, positive = lens protrudes in front of knurled face, zero/negative = flush or recessed
 l39_thread_length = 15;        // mm, total thread length reset to 5 after testing.
 
 // measure the offset and knurl height
