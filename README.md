@@ -1,10 +1,11 @@
 # L39 Adapter OpenSCAD Project
 
+![broken point and shoot cameras](/assets/cameras.jpg)
+
 ## Overview
 This project generates a parametric Leica L39 (LTM) to lens adapter with a knurled grip, using OpenSCAD and open-source libraries for threads and knurling.
 
-> **⚠️ WARNING: Use at Your Own Risk**
->
+> [!WARNING]Use at Your Own Risk
 > If you are not careful, it is possible to design and print an adapter that, when screwed into your camera, could protrude so far that it physically touches or damages your camera's sensor or shutter. Always measure carefully and double-check your design before mounting on your camera. The authors and contributors are not responsible for any damage caused by improper use of these adapters.
 
 ## Structure
@@ -136,3 +137,8 @@ See individual libraries for their respective licenses.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
+
+---
+
+> [!NOTE]
+> Only use broken point and shoot cameras for your lens conversions. Please don't buy up a scarce resource and make these silly lenses from working cameras. Let's keep vintage cameras available for everyone!
